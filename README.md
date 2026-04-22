@@ -327,6 +327,3 @@ Utilise-le avec prudence et garde toujours une méthode d’arrêt rapide dispon
 Le projet est conçu comme un outil d’automatisation pratique, et il est fait pour être modifié, réglé et amélioré.
 
 ```
-
-Si tu veux, je peux aussi te faire une **:contentReference[oaicite:0]{index=0}** avec badges, GIF, screenshot, et un style plus clean.
-```
